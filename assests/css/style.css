@@ -1,0 +1,118 @@
+body{
+	background: #0f0f0f;
+	height: 130vh;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+*{
+    margin: 0px; padding: 0px; font-family: 'Cormorant Garamond' ;
+}
+
+.left{
+    background: #424447;
+	padding: 0px 0px 0px 20px;
+	width: 250px;
+	height: 100%;
+	float: left;
+}
+.right
+{
+	background: #24549b;
+    width: 530px; float: left;
+}
+.p1
+{
+	font-size: 20px;
+	font-weight: 200px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header
+{
+    position: absolute;
+    margin-left:250px;
+    height: 150px;
+    width: 1450px;
+    background-color: gray;
+    display:flex;
+}
+.Container
+{
+    border: solid 0.6em rgb(88, 82, 82);
+    position: absolute;
+    height: 200px;
+    width: 350px;
+	font-size: 20px;
+    border-radius: 5%;
+    background-color: rgb(82, 80, 82);
+    text-align:left;
+    padding-left: 15px;
+    border-left-color: rgb(107, 9, 163);
+}
+#first
+{
+    margin-top: 210px;
+    margin-left: 50px;
+}
+#second
+{
+    margin-top: 210px;
+    margin-left: 500px;
+}
+#third
+{
+    margin-top: 450px;
+    margin-left: 50px;
+}
+#forth
+{
+    margin-top: 450px;
+    margin-left: 500px;
+}
+#fifth
+{
+    margin-top: 700px;
+    margin-left: 50px;
+}
+#sixth
+{
+    margin-top: 700px;
+    margin-left: 500px;
+}
+.aside-container
+{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 1010px;
+    background-color: rgb(82, 80, 82);
+    border-radius: 5%;
+    text-align:left;
+    padding:15px;
+}
+#annoncement
+{
+    margin-top: 210px;
+    margin-left: 1010px;
+  }
+#people
+{
+    margin-top: 600px;
+    margin-left: 1010px;
+}
+.search input[type=text] {
+    width: 350px;
+    height: 25px;
+    border-radius: 50px;
+    border: none;
+}
+ 
+.search {
+    float: right;
+    margin: 27px;
+}
+img {
+	border-radius: 50%;
+  }
+
+ 
